@@ -1,0 +1,27 @@
+section{
+  border: 2px solid black;
+  width: 80%;
+  margin-left: 10%;
+  background-color: navy;
+}
+form{
+  border: 2px solid black;
+  width: 80%;
+  background-color: lightblue;
+  margin-left: 10%;
+}
+
+.clearCompleted {
+  text-decoration: line-through;
+  color: darkgray;
+}
+
+input#taskGen {
+    width: 40%;
+}
+
+h1 {
+  color: navy;
+  text-decoration: underline;
+  margin-left: 40%;
+}
